@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774999453751",
+    "project_id": "flashhhh-e641e",
+    "storage_bucket": "flashhhh-e641e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774999453751:android:105037ee5637fe75ab4fb2",
+        "android_client_info": {
+          "package_name": "com.titi.flashhhhchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774999453751-rdubhti7nv90fnpa8qjm8km9ve10apjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs9gdEPRv7G2d7-nhwt-GyTjAf5xpQ46k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774999453751-rdubhti7nv90fnpa8qjm8km9ve10apjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
